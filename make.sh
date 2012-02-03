@@ -6,6 +6,7 @@ then
     echo "cleaning"
     rm -f include/*.o
     rm -f *.o
+    rm -f *.exe
     exit
 fi
 
